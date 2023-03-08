@@ -1,0 +1,16 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://file.hstatic.net/200000427529/article/y-nghia-hoa-cuc-hoa-mi_8a0b4007caf240f4a6f32d45e6a414d7_1024x1024.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://product.hstatic.net/200000427529/product/33eefb80b8137b4d2202_70a0809e2c8e43e7a3caba626fadf176_master.jpeg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://product.hstatic.net/200000427529/product/e5fca979-2b8d-4b4d-9365-e388302c42ed_f3666c839e9c45759253bf167500b839_master.jpeg);
+  position: relative;
+}
